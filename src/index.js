@@ -1,6 +1,5 @@
 import React from 'react';
 import logo from './logo.svg';
-import {useEffect, useState} from 'react';
 import ReactDOM from 'react-dom';
 import './app.scss';
 import './index.css';
